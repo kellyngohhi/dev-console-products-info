@@ -7,7 +7,7 @@
     {
       "name": "GCC Primer",
       "description": "Introduction to GCC and how to get started",
-      "url": "https://docs.developer.tech.gov.sg/docs/gcc-primer/#/"
+      "url": "https://docs.developer.tech.gov.sg/docs/gcc-20-primer/"
     },
     {
       "name": "GCC Version 2 User Documentation",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Overview of GCC Version 2",
-      "url": "https://docs.developer.tech.gov.sg/docs?product=Government%20Commercial%20Cloud%20(GCC)"
+      "url": "https://docs.developer.tech.gov.sg/docs?product=Government%20on%20Commercial%20Cloud%20(GCC)"
     }
-]
+  ]
 }
